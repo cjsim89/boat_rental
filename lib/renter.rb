@@ -6,4 +6,7 @@ class Renter
     @name = name
     @cc_num = cc_num
   end
+
+
+
 end
