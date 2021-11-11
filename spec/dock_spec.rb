@@ -10,7 +10,9 @@ RSpec.describe Dock do
     @eugene = Renter.new("Eugene Krabs", "1313131313131313")
     @kayak_1 = Boat.new(:kayak, 20)
     @kayak_2 = Boat.new(:kayak, 20)
+    @canoe = Boat.new(:canoe, 25)
     @sup_1 = Boat.new(:standup_paddle_board, 15)
+    @sup_2 = Boat.new(:standup_paddle_board, 15)
 
   end
 

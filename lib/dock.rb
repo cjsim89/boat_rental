@@ -20,4 +20,9 @@ class Dock
     receipt
   end
 
+  def return(boat)
+
+  end
+
+
 end
